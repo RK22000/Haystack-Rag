@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+haystack-ai
+datasets>=2.6.1
+sentence-transformers>=3.0.0
+notebook
+seaborn
+pandas
+python-dotenv
